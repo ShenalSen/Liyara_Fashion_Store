@@ -1,0 +1,322 @@
+{
+ "wildflower-embroidered-shirt-blouse": [
+  {
+   "src": "products/wildflower-embroidered-shirt-blouse/1.webp",
+   "color": "Midnight Black",
+   "w": 675,
+   "h": 1500
+  },
+  {
+   "src": "products/wildflower-embroidered-shirt-blouse/2.webp",
+   "color": "Forest Green",
+   "w": 675,
+   "h": 1500
+  },
+  {
+   "src": "products/wildflower-embroidered-shirt-blouse/3.webp",
+   "color": "Ivory Folk",
+   "w": 675,
+   "h": 1500
+  },
+  {
+   "src": "products/wildflower-embroidered-shirt-blouse/4.webp",
+   "color": "Ivory Sunflower",
+   "w": 896,
+   "h": 1195
+  }
+ ],
+ "hana-striped-belted-shirt-dress": [
+  {
+   "src": "products/hana-striped-belted-shirt-dress/1.webp",
+   "color": "Pebble Grey",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "products/hana-striped-belted-shirt-dress/2.webp",
+   "color": "Pebble Grey",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "products/hana-striped-belted-shirt-dress/3.webp",
+   "color": "Powder Blue",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "products/hana-striped-belted-shirt-dress/4.webp",
+   "color": "Powder Blue",
+   "w": 1024,
+   "h": 1024
+  }
+ ],
+ "sakura-tiered-maxi-dress": [
+  {
+   "src": "products/sakura-tiered-maxi-dress/1.webp",
+   "color": "Ivory Sakura",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "products/sakura-tiered-maxi-dress/2.webp",
+   "color": "Ivory Sakura",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "products/sakura-tiered-maxi-dress/3.webp",
+   "color": "Ivory Sakura",
+   "w": 1024,
+   "h": 1024
+  },
+  {
+   "src": "products/sakura-tiered-maxi-dress/4.webp",
+   "color": "Ivory Sakura",
+   "w": 1024,
+   "h": 1024
+  }
+ ],
+ "rosalie-embroidered-belted-midi": [
+  {
+   "src": "products/rosalie-embroidered-belted-midi/1.webp",
+   "color": "White",
+   "w": 963,
+   "h": 1280
+  },
+  {
+   "src": "products/rosalie-embroidered-belted-midi/2.webp",
+   "color": "White",
+   "w": 1200,
+   "h": 1200
+  }
+ ],
+ "bloom-print-button-front-maxi": [
+  {
+   "src": "products/bloom-print-button-front-maxi/1.webp",
+   "color": "Lavender",
+   "w": 851,
+   "h": 1280
+  },
+  {
+   "src": "products/bloom-print-button-front-maxi/2.webp",
+   "color": "Lavender",
+   "w": 1200,
+   "h": 1200
+  },
+  {
+   "src": "products/bloom-print-button-front-maxi/3.webp",
+   "color": "Sky Blue",
+   "w": 1200,
+   "h": 1200
+  },
+  {
+   "src": "products/bloom-print-button-front-maxi/4.webp",
+   "color": "Sand",
+   "w": 1200,
+   "h": 1200
+  }
+ ],
+ "ivory-rose-curved-hem-shirt-dress": [
+  {
+   "src": "products/ivory-rose-curved-hem-shirt-dress/1.webp",
+   "color": "White",
+   "w": 851,
+   "h": 1280
+  },
+  {
+   "src": "products/ivory-rose-curved-hem-shirt-dress/2.webp",
+   "color": "White",
+   "w": 1200,
+   "h": 1200
+  }
+ ],
+ "celeste-asymmetric-tiered-dress": [
+  {
+   "src": "products/celeste-asymmetric-tiered-dress/1.webp",
+   "color": "White",
+   "w": 1200,
+   "h": 1200
+  }
+ ],
+ "aria-everyday-a-line-dress": [
+  {
+   "src": "products/aria-everyday-a-line-dress/1.webp",
+   "color": "Teal",
+   "w": 1200,
+   "h": 1200
+  },
+  {
+   "src": "products/aria-everyday-a-line-dress/2.webp",
+   "color": "Maroon",
+   "w": 1200,
+   "h": 1200
+  },
+  {
+   "src": "products/aria-everyday-a-line-dress/3.webp",
+   "color": "Navy",
+   "w": 1200,
+   "h": 1200
+  },
+  {
+   "src": "products/aria-everyday-a-line-dress/4.webp",
+   "color": "Olive",
+   "w": 1200,
+   "h": 1200
+  },
+  {
+   "src": "products/aria-everyday-a-line-dress/5.webp",
+   "color": "Marigold",
+   "w": 1200,
+   "h": 1200
+  },
+  {
+   "src": "products/aria-everyday-a-line-dress/6.webp",
+   "color": "Fuchsia",
+   "w": 1200,
+   "h": 1200
+  },
+  {
+   "src": "products/aria-everyday-a-line-dress/7.webp",
+   "color": "Dusty Rose",
+   "w": 1200,
+   "h": 1200
+  },
+  {
+   "src": "products/aria-everyday-a-line-dress/8.webp",
+   "color": "Coral",
+   "w": 1200,
+   "h": 1200
+  }
+ ],
+ "sunflower-meadow-embroidered-maxi": [
+  {
+   "src": "products/sunflower-meadow-embroidered-maxi/1.webp",
+   "color": "Mint Green",
+   "w": 896,
+   "h": 1195
+  },
+  {
+   "src": "products/sunflower-meadow-embroidered-maxi/2.webp",
+   "color": "Black",
+   "w": 896,
+   "h": 1195
+  },
+  {
+   "src": "products/sunflower-meadow-embroidered-maxi/3.webp",
+   "color": "White",
+   "w": 896,
+   "h": 1195
+  }
+ ],
+ "botanica-embroidered-midi": [
+  {
+   "src": "products/botanica-embroidered-midi/1.webp",
+   "color": "White",
+   "w": 896,
+   "h": 1195
+  }
+ ],
+ "botanica-tiered-maxi": [
+  {
+   "src": "products/botanica-tiered-maxi/1.webp",
+   "color": "White",
+   "w": 896,
+   "h": 1195
+  }
+ ],
+ "lumi-lace-tiered-midi": [
+  {
+   "src": "products/lumi-lace-tiered-midi/1.webp",
+   "color": "Turquoise",
+   "w": 1000,
+   "h": 1500
+  },
+  {
+   "src": "products/lumi-lace-tiered-midi/2.webp",
+   "color": "Blush",
+   "w": 1000,
+   "h": 1500
+  },
+  {
+   "src": "products/lumi-lace-tiered-midi/3.webp",
+   "color": "Seafoam",
+   "w": 843,
+   "h": 1264
+  }
+ ],
+ "little-pearl-lace-party-dress": [
+  {
+   "src": "products/little-pearl-lace-party-dress/1.webp",
+   "color": "Navy",
+   "w": 896,
+   "h": 1195
+  },
+  {
+   "src": "products/little-pearl-lace-party-dress/2.webp",
+   "color": "Mint",
+   "w": 896,
+   "h": 1195
+  },
+  {
+   "src": "products/little-pearl-lace-party-dress/3.webp",
+   "color": "Peach",
+   "w": 896,
+   "h": 1195
+  }
+ ],
+ "princess-bow-lace-gown": [
+  {
+   "src": "products/princess-bow-lace-gown/1.webp",
+   "color": "Turquoise",
+   "w": 1200,
+   "h": 1280
+  }
+ ],
+ "bella-bow-lace-midi": [
+  {
+   "src": "products/bella-bow-lace-midi/1.webp",
+   "color": "Seafoam",
+   "w": 1145,
+   "h": 1374
+  },
+  {
+   "src": "products/bella-bow-lace-midi/2.webp",
+   "color": "Peach",
+   "w": 1000,
+   "h": 1500
+  }
+ ],
+ "tiara-layered-lace-dress": [
+  {
+   "src": "products/tiara-layered-lace-dress/1.webp",
+   "color": "Teal",
+   "w": 896,
+   "h": 1195
+  }
+ ],
+ "cascade-high-low-lace-dress": [
+  {
+   "src": "products/cascade-high-low-lace-dress/1.webp",
+   "color": "Seafoam",
+   "w": 1200,
+   "h": 1280
+  }
+ ],
+ "peach-lace-skater-dress": [
+  {
+   "src": "products/peach-lace-skater-dress/1.webp",
+   "color": "Peach",
+   "w": 896,
+   "h": 1195
+  }
+ ],
+ "rose-lace-ball-gown": [
+  {
+   "src": "products/rose-lace-ball-gown/1.webp",
+   "color": "Blush Pink",
+   "w": 1000,
+   "h": 1500
+  }
+ ]
+}
